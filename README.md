@@ -5,4 +5,4 @@ The project involved modeling and assembling the entire scene shown in the rende
 
 ## Render
 ![Render](render.png)
-![Render without car](render-no-car,png)
+![Render without car](render-no-car.png)
